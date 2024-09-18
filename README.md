@@ -1,1 +1,1 @@
-# okul
+# netflix clone project
